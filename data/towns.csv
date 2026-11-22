@@ -1,0 +1,387 @@
+town,state,county,monthly_searches_70_trades,trades_scored,trades_with_an_opening,opening_1,opening_1_score,opening_2,opening_3,median_competitors_on_map,url
+Anchorage,AK,Anchorage Municipality,9400,71,24,roof repair,24.8,garage door repair,bathroom remodeling,14,https://www.towndemand.com/towns/ak/anchorage/
+Auburn,AL,Lee County,6240,71,8,AC repair,22.7,garage door repair,septic pumping,10,https://www.towndemand.com/towns/al/auburn/
+Birmingham,AL,Jefferson County,26470,71,45,window replacement,42,garage door repair,roof repair,16,https://www.towndemand.com/towns/al/birmingham/
+Decatur,AL,Morgan County,5380,71,8,garage door repair,21.6,tree removal,dumpster rental,14,https://www.towndemand.com/towns/al/decatur/
+Dothan,AL,Houston County,5240,71,6,AC repair,11.8,tree removal,garage door repair,13,https://www.towndemand.com/towns/al/dothan/
+Huntsville,AL,Madison County,17990,71,38,roof repair,36.5,bathroom remodeling,crawl space encapsulation,16,https://www.towndemand.com/towns/al/huntsville/
+Mobile,AL,Mobile County,16250,71,32,roof repair,34.5,foundation repair,water heater installation,13,https://www.towndemand.com/towns/al/mobile/
+Montgomery,AL,Montgomery County,8000,71,15,window replacement,22.1,tree removal,porta potty rental,14,https://www.towndemand.com/towns/al/montgomery/
+Tuscaloosa,AL,Tuscaloosa County,6700,71,10,garage door repair,21.7,roof repair,tree removal,10,https://www.towndemand.com/towns/al/tuscaloosa/
+Conway,AR,Faulkner County,5260,71,8,dumpster rental,19.1,water heater installation,tree removal,14,https://www.towndemand.com/towns/ar/conway/
+Fayetteville,AR,Washington County,8860,71,20,AC repair,36,tree removal,roof repair,15,https://www.towndemand.com/towns/ar/fayetteville/
+Fort Smith,AR,Sebastian County,5380,71,8,AC repair,22.3,roof repair,fence installation,17,https://www.towndemand.com/towns/ar/fort-smith/
+Jonesboro,AR,Craighead County,5180,71,6,roof repair,22.4,dumpster rental,garage door repair,10,https://www.towndemand.com/towns/ar/jonesboro/
+Little Rock,AR,Pulaski County,13550,71,34,dumpster rental,25,tree removal,concrete driveway,13,https://www.towndemand.com/towns/ar/little-rock/
+Rogers,AR,Benton County,9350,71,22,water damage restoration,21.4,bathroom remodeling,roof repair,13,https://www.towndemand.com/towns/ar/rogers/
+Flagstaff,AZ,Coconino County,6320,71,9,roof repair,15.3,garage door repair,water heater installation,14,https://www.towndemand.com/towns/az/flagstaff/
+Lake Havasu City,AZ,Mohave County,6710,71,8,termite treatment,12.8,AC repair,countertop installation,14,https://www.towndemand.com/towns/az/lake-havasu-city/
+Maricopa,AZ,Pinal County,12190,71,25,roof repair,31.5,garage door repair,bathroom remodeling,12,https://www.towndemand.com/towns/az/maricopa/
+Phoenix,AZ,Maricopa County,135230,71,61,garage door repair,60,water heater installation,drain cleaning,16,https://www.towndemand.com/towns/az/phoenix/
+Prescott Valley,AZ,Yavapai County,7310,71,11,garage door repair,21.3,septic pumping,water heater installation,15,https://www.towndemand.com/towns/az/prescott-valley/
+Tucson,AZ,Pima County,38380,71,48,drain cleaning,30.7,septic pumping,sewer line repair,16,https://www.towndemand.com/towns/az/tucson/
+Yuma,AZ,Yuma County,6500,71,11,roof repair,18.5,garage door repair,septic pumping,13,https://www.towndemand.com/towns/az/yuma/
+Anaheim,CA,Orange County,60670,71,56,mold remediation,69.2,roof repair,garage door repair,13,https://www.towndemand.com/towns/ca/anaheim/
+Bakersfield,CA,Kern County,21450,71,40,septic pumping,32.1,garage door repair,water softener installation,14,https://www.towndemand.com/towns/ca/bakersfield/
+Chico,CA,Butte County,5050,71,5,garage door repair,24.6,AC repair,countertop installation,15,https://www.towndemand.com/towns/ca/chico/
+Concord,CA,Contra Costa County,22100,71,45,mold remediation,39.2,water damage restoration,foundation repair,13,https://www.towndemand.com/towns/ca/concord/
+Davis,CA,Yolo County,6160,71,8,garage door repair,37.2,water heater installation,AC repair,6,https://www.towndemand.com/towns/ca/davis/
+Fresno,CA,Fresno County,26060,71,44,mold remediation,45.9,bathroom remodeling,garage door repair,14,https://www.towndemand.com/towns/ca/fresno/
+Hanford,CA,Kings County,4370,71,4,garage door repair,12.3,AC repair,junk removal,9,https://www.towndemand.com/towns/ca/hanford/
+Los Angeles,CA,Los Angeles County,235340,71,67,mold remediation,91.8,water damage restoration,solar panel installation,14,https://www.towndemand.com/towns/ca/los-angeles/
+Madera,CA,Madera County,4920,71,5,water heater installation,3.9,pressure washing,AC repair,10,https://www.towndemand.com/towns/ca/madera/
+Merced,CA,Merced County,6480,71,9,garage door repair,19.5,roof repair,AC repair,12,https://www.towndemand.com/towns/ca/merced/
+Modesto,CA,Stanislaus County,14590,71,33,AC repair,27.8,water heater installation,tree removal,14,https://www.towndemand.com/towns/ca/modesto/
+Napa,CA,Napa County,5380,71,5,water heater installation,24.5,roof repair,tile installation,13,https://www.towndemand.com/towns/ca/napa/
+Oakland,CA,Alameda County,30900,71,47,garage door repair,56.5,solar panel installation,bathroom remodeling,14,https://www.towndemand.com/towns/ca/oakland/
+Oxnard,CA,Ventura County,16720,71,35,water heater installation,38.6,termite treatment,water damage restoration,12,https://www.towndemand.com/towns/ca/oxnard/
+Redding,CA,Shasta County,7710,71,13,tree removal,21.6,AC repair,septic pumping,15,https://www.towndemand.com/towns/ca/redding/
+Riverside,CA,Riverside County,47980,71,55,garage door repair,56.2,septic pumping,roof repair,14,https://www.towndemand.com/towns/ca/riverside/
+Roseville,CA,Placer County,13570,71,31,garage door repair,34.1,artificial turf installation,porta potty rental,15,https://www.towndemand.com/towns/ca/roseville/
+Sacramento,CA,Sacramento County,48820,71,53,roof repair,60.7,garage door repair,AC repair,15,https://www.towndemand.com/towns/ca/sacramento/
+Salinas,CA,Monterey County,8810,71,19,junk removal,26.6,AC repair,water softener installation,8,https://www.towndemand.com/towns/ca/salinas/
+San Bernardino,CA,San Bernardino County,37640,71,49,septic pumping,70,garage door repair,water heater installation,12,https://www.towndemand.com/towns/ca/san-bernardino/
+San Diego,CA,San Diego County,92080,71,60,roof repair,64.1,bathroom remodeling,foundation repair,15,https://www.towndemand.com/towns/ca/san-diego/
+San Francisco,CA,San Francisco County,32890,71,51,garage door repair,57.7,roof repair,porta potty rental,11,https://www.towndemand.com/towns/ca/san-francisco/
+San Jose,CA,Santa Clara County,78920,71,60,solar panel installation,61.4,garage door repair,termite treatment,15,https://www.towndemand.com/towns/ca/san-jose/
+San Mateo,CA,San Mateo County,16730,71,39,hardwood floor refinishing,43.8,garage door repair,water damage restoration,12,https://www.towndemand.com/towns/ca/san-mateo/
+San Rafael,CA,Marin County,6930,71,15,garage door repair,24.4,termite treatment,junk removal,13,https://www.towndemand.com/towns/ca/san-rafael/
+Santa Cruz,CA,Santa Cruz County,7460,71,15,garage door repair,18.2,solar panel installation,tree removal,7,https://www.towndemand.com/towns/ca/santa-cruz/
+Santa Maria,CA,Santa Barbara County,8650,71,19,garage door repair,21.6,roof repair,water damage restoration,12,https://www.towndemand.com/towns/ca/santa-maria/
+Santa Rosa,CA,Sonoma County,14700,71,33,garage door repair,28.7,junk removal,mold remediation,13,https://www.towndemand.com/towns/ca/santa-rosa/
+Stockton,CA,San Joaquin County,16030,71,38,roof repair,29.7,tree removal,water heater installation,13,https://www.towndemand.com/towns/ca/stockton/
+Vallejo,CA,Solano County,9640,71,21,termite treatment,47.7,dryer vent cleaning,roof repair,10,https://www.towndemand.com/towns/ca/vallejo/
+Visalia,CA,Tulare County,9530,71,20,roof repair,25.9,junk removal,porta potty rental,10,https://www.towndemand.com/towns/ca/visalia/
+Yuba City,CA,Sutter County,4790,71,5,garage door repair,16.2,junk removal,pressure washing,13,https://www.towndemand.com/towns/ca/yuba-city/
+Aurora,CO,Arapahoe County,20670,71,43,bathroom remodeling,49.1,AC repair,roof repair,15,https://www.towndemand.com/towns/co/aurora/
+Boulder,CO,Boulder County,10700,71,28,AC repair,31.7,bathroom remodeling,kitchen remodeling,14,https://www.towndemand.com/towns/co/boulder/
+Broomfield,CO,Broomfield County,5480,71,7,epoxy garage floors,16.5,junk removal,roof repair,16,https://www.towndemand.com/towns/co/broomfield/
+Castle Rock,CO,Douglas County,12630,71,31,garage door repair,31.5,AC repair,kitchen remodeling,15,https://www.towndemand.com/towns/co/castle-rock/
+Colorado Springs,CO,El Paso County,29380,71,46,junk removal,41.3,porta potty rental,deck builder,18,https://www.towndemand.com/towns/co/colorado-springs/
+Denver,CO,Denver County,47790,71,54,window replacement,58.2,garage door repair,dumpster rental,17,https://www.towndemand.com/towns/co/denver/
+Fort Collins,CO,Larimer County,16180,71,35,drain cleaning,38.3,water heater installation,bathroom remodeling,16,https://www.towndemand.com/towns/co/fort-collins/
+Grand Junction,CO,Mesa County,7260,71,11,tree removal,19.1,roof repair,AC repair,14,https://www.towndemand.com/towns/co/grand-junction/
+Greeley,CO,Weld County,10900,71,26,AC repair,34.1,drain cleaning,dumpster rental,15,https://www.towndemand.com/towns/co/greeley/
+Lakewood,CO,Jefferson County,17180,71,41,garage door repair,66.4,bathroom remodeling,drain cleaning,16,https://www.towndemand.com/towns/co/lakewood/
+Pueblo,CO,Pueblo County,6790,71,11,garage door repair,27.6,septic pumping,porta potty rental,15,https://www.towndemand.com/towns/co/pueblo/
+Thornton,CO,Adams County,15800,71,37,bathroom remodeling,31.7,garage door repair,dumpster rental,15,https://www.towndemand.com/towns/co/thornton/
+Bridgeport,CT,Greater Bridgeport Planning Region,4860,71,3,dumpster rental,12.6,junk removal,AC repair,14,https://www.towndemand.com/towns/ct/bridgeport/
+Hartford,CT,Capitol Planning Region,8660,71,17,garage door repair,30.1,roof repair,AC repair,13,https://www.towndemand.com/towns/ct/hartford/
+New Haven,CT,South Central Connecticut Planning Region,6350,71,12,AC repair,32.5,roof repair,water heater installation,12,https://www.towndemand.com/towns/ct/new-haven/
+Stamford,CT,Western Connecticut Planning Region,5570,71,5,garage door repair,20.1,junk removal,countertop installation,15,https://www.towndemand.com/towns/ct/stamford/
+Waterbury,CT,Naugatuck Valley Planning Region,4700,71,0,,,,,,https://www.towndemand.com/towns/ct/waterbury/
+Wilmington,DE,New Castle County,15120,71,37,garage door repair,33.5,bathroom remodeling,AC repair,12,https://www.towndemand.com/towns/de/wilmington/
+Bradenton,FL,Manatee County,15180,71,32,garage door repair,40.2,roof repair,bathroom remodeling,16,https://www.towndemand.com/towns/fl/bradenton/
+Cape Coral,FL,Lee County,32360,71,50,dryer vent cleaning,38.9,roof repair,hurricane shutters,17,https://www.towndemand.com/towns/fl/cape-coral/
+Clermont,FL,Lake County,13950,71,28,gutter installation,40.6,dumpster rental,bathroom remodeling,14,https://www.towndemand.com/towns/fl/clermont/
+Deltona,FL,Volusia County,16650,71,36,roof repair,49.9,garage door repair,window replacement,15,https://www.towndemand.com/towns/fl/deltona/
+Fort Lauderdale,FL,Broward County,53770,71,56,roof repair,89.1,mold remediation,garage door repair,16,https://www.towndemand.com/towns/fl/fort-lauderdale/
+Gainesville,FL,Alachua County,12330,71,28,dumpster rental,28.7,garage door repair,bathroom remodeling,16,https://www.towndemand.com/towns/fl/gainesville/
+Jacksonville,FL,Duval County,46300,71,54,garage door repair,81.6,bathroom remodeling,roof repair,16,https://www.towndemand.com/towns/fl/jacksonville/
+Kissimmee,FL,Osceola County,13250,71,30,garage door repair,38.5,AC repair,water heater installation,13,https://www.towndemand.com/towns/fl/kissimmee/
+Lakeland,FL,Polk County,26280,71,44,garage door repair,34.1,chimney sweep,gutter installation,16,https://www.towndemand.com/towns/fl/lakeland/
+Melbourne,FL,Brevard County,23880,71,44,garage door repair,40.6,foundation repair,mold remediation,16,https://www.towndemand.com/towns/fl/melbourne/
+Miami,FL,Miami-Dade County,85980,71,67,AC repair,97,roof repair,bathroom remodeling,14,https://www.towndemand.com/towns/fl/miami/
+North Port,FL,Sarasota County,17520,71,41,garage door repair,45.1,bathroom remodeling,dryer vent cleaning,16,https://www.towndemand.com/towns/fl/north-port/
+Ocala,FL,Marion County,18870,71,35,bathroom remodeling,35.8,garage door repair,septic pumping,16,https://www.towndemand.com/towns/fl/ocala/
+Orlando,FL,Orange County,59730,71,61,dryer vent cleaning,66.8,foundation repair,duct cleaning,16,https://www.towndemand.com/towns/fl/orlando/
+Palm Coast,FL,Flagler County,8030,71,13,roof repair,22.3,junk removal,dryer vent cleaning,16,https://www.towndemand.com/towns/fl/palm-coast/
+Pensacola,FL,Escambia County,15210,71,27,tree removal,28.9,gutter installation,garage door repair,15,https://www.towndemand.com/towns/fl/pensacola/
+Port St. Lucie,FL,St. Lucie County,15010,71,27,AC repair,26.6,impact windows,bathroom remodeling,17,https://www.towndemand.com/towns/fl/port-st-lucie/
+Sanford,FL,Seminole County,13070,71,31,dryer vent cleaning,35.7,mold remediation,roof repair,15,https://www.towndemand.com/towns/fl/sanford/
+St. Petersburg,FL,Pinellas County,35340,71,55,garage door repair,60,termite treatment,dryer vent cleaning,16,https://www.towndemand.com/towns/fl/st-petersburg/
+Tallahassee,FL,Leon County,13570,71,26,foundation repair,34,concrete driveway,AC repair,16,https://www.towndemand.com/towns/fl/tallahassee/
+Tampa,FL,Hillsborough County,67270,71,64,mold remediation,55.6,dryer vent cleaning,roof repair,16,https://www.towndemand.com/towns/fl/tampa/
+West Palm Beach,FL,Palm Beach County,42620,71,56,mold remediation,64,garage door repair,water heater installation,16,https://www.towndemand.com/towns/fl/west-palm-beach/
+Albany,GA,Dougherty County,4750,71,4,tree removal,13.8,AC repair,pressure washing,8,https://www.towndemand.com/towns/ga/albany/
+Atlanta,GA,Fulton County,77620,71,59,garage door repair,79.3,AC repair,porta potty rental,16,https://www.towndemand.com/towns/ga/atlanta/
+Columbus,GA,Muscogee County,8230,71,18,roof repair,26.2,porta potty rental,AC repair,12,https://www.towndemand.com/towns/ga/columbus/
+Mableton,GA,Cobb County,20380,71,40,garage door repair,66.8,roof repair,chimney sweep,14,https://www.towndemand.com/towns/ga/mableton/
+Macon,GA,Bibb County,4990,71,5,garage door repair,25.8,dumpster rental,AC repair,12,https://www.towndemand.com/towns/ga/macon/
+Savannah,GA,Chatham County,12360,71,33,foundation repair,23,bathroom remodeling,porta potty rental,16,https://www.towndemand.com/towns/ga/savannah/
+Stonecrest,GA,DeKalb County,15560,71,38,AC repair,38.5,dryer vent cleaning,bathroom remodeling,11,https://www.towndemand.com/towns/ga/stonecrest/
+Valdosta,GA,Lowndes County,5380,71,7,tree removal,12.5,garage door repair,junk removal,10,https://www.towndemand.com/towns/ga/valdosta/
+Warner Robins,GA,Houston County,6630,71,10,septic pumping,22,garage door repair,tree removal,13,https://www.towndemand.com/towns/ga/warner-robins/
+Ames,IA,Story County,4540,71,3,AC repair,12.4,tree removal,garage door repair,15,https://www.towndemand.com/towns/ia/ames/
+Cedar Rapids,IA,Linn County,9450,71,20,garage door repair,14.8,window replacement,tree removal,16,https://www.towndemand.com/towns/ia/cedar-rapids/
+Council Bluffs,IA,Pottawattamie County,5830,71,7,water heater installation,15.2,dumpster rental,tree removal,16,https://www.towndemand.com/towns/ia/council-bluffs/
+Davenport,IA,Scott County,6890,71,10,garage door repair,14.8,countertop installation,AC repair,16,https://www.towndemand.com/towns/ia/davenport/
+Des Moines,IA,Polk County,55960,71,46,basement waterproofing,75,kitchen remodeling,fence installation,16,https://www.towndemand.com/towns/ia/des-moines/
+Dubuque,IA,Dubuque County,4640,71,5,dumpster rental,9.4,tree removal,AC repair,8,https://www.towndemand.com/towns/ia/dubuque/
+Iowa City,IA,Johnson County,6180,71,10,tree removal,13.7,junk removal,roof repair,12,https://www.towndemand.com/towns/ia/iowa-city/
+Sioux City,IA,Woodbury County,4840,71,5,tree removal,8.3,dumpster rental,garage door repair,13,https://www.towndemand.com/towns/ia/sioux-city/
+Waterloo,IA,Black Hawk County,5620,71,5,garage door repair,16.5,AC repair,tree removal,9,https://www.towndemand.com/towns/ia/waterloo/
+Boise,ID,Ada County,18260,71,39,kitchen remodeling,46.1,roof repair,bathroom remodeling,18,https://www.towndemand.com/towns/id/boise/
+Coeur d'Alene,ID,Kootenai County,6760,71,12,roof repair,23.9,AC repair,house painting,12,https://www.towndemand.com/towns/id/coeur-d-alene/
+Idaho Falls,ID,Bonneville County,6090,71,9,garage door repair,20.7,roof repair,AC repair,16,https://www.towndemand.com/towns/id/idaho-falls/
+Nampa,ID,Canyon County,8780,71,21,window replacement,21.3,bathroom remodeling,roof repair,16,https://www.towndemand.com/towns/id/nampa/
+Pocatello,ID,Bannock County,4490,71,5,roof repair,14.3,tree removal,garage door repair,13,https://www.towndemand.com/towns/id/pocatello/
+Twin Falls,ID,Twin Falls County,5120,71,5,septic pumping,23.8,roof repair,garage door repair,14,https://www.towndemand.com/towns/id/twin-falls/
+Aurora,IL,Kane County,16510,71,39,bathroom remodeling,34.3,roof repair,water damage restoration,14,https://www.towndemand.com/towns/il/aurora/
+Bloomington,IL,McLean County,7370,71,14,garage door repair,47.9,foundation repair,fence installation,11,https://www.towndemand.com/towns/il/bloomington/
+Champaign,IL,Champaign County,7580,71,13,roof repair,12.8,tree removal,AC repair,14,https://www.towndemand.com/towns/il/champaign/
+Chicago,IL,Cook County,163890,71,63,bathroom remodeling,91.9,window replacement,roof repair,16,https://www.towndemand.com/towns/il/chicago/
+Decatur,IL,Macon County,5180,71,5,tree removal,9.4,dumpster rental,pressure washing,10,https://www.towndemand.com/towns/il/decatur/
+Joliet,IL,Will County,18040,71,41,garage door repair,49.2,bathroom remodeling,porta potty rental,14,https://www.towndemand.com/towns/il/joliet/
+Naperville,IL,DuPage County,28430,71,46,bathroom remodeling,36.8,water damage restoration,basement waterproofing,15,https://www.towndemand.com/towns/il/naperville/
+Peoria,IL,Peoria County,9420,71,23,gutter installation,31.1,bathroom remodeling,foundation repair,14,https://www.towndemand.com/towns/il/peoria/
+Rockford,IL,Winnebago County,11110,71,25,bathroom remodeling,25.3,garage door repair,AC repair,14,https://www.towndemand.com/towns/il/rockford/
+Springfield,IL,Sangamon County,9470,71,23,garage door repair,33.3,window replacement,AC repair,14,https://www.towndemand.com/towns/il/springfield/
+Waukegan,IL,Lake County,19540,71,41,garage door repair,54.3,bathroom remodeling,chimney sweep,11,https://www.towndemand.com/towns/il/waukegan/
+Anderson,IN,Madison County,5010,71,4,garage door repair,32.5,AC repair,water heater installation,9,https://www.towndemand.com/towns/in/anderson/
+Bloomington,IN,Monroe County,7330,71,15,garage door repair,16.1,junk removal,septic pumping,13,https://www.towndemand.com/towns/in/bloomington/
+Columbus,IN,Bartholomew County,5370,71,6,AC repair,15.6,termite treatment,water heater installation,10,https://www.towndemand.com/towns/in/columbus/
+Elkhart,IN,Elkhart County,6910,71,10,junk removal,19.3,septic pumping,tree removal,10,https://www.towndemand.com/towns/in/elkhart/
+Evansville,IN,Vanderburgh County,7990,71,16,tree removal,20.8,roof repair,bathroom remodeling,14,https://www.towndemand.com/towns/in/evansville/
+Fishers,IN,Hamilton County,14980,71,35,roof repair,34.9,water softener installation,concrete driveway,15,https://www.towndemand.com/towns/in/fishers/
+Fort Wayne,IN,Allen County,15470,71,35,roof repair,40,foundation repair,basement waterproofing,16,https://www.towndemand.com/towns/in/fort-wayne/
+Greenwood,IN,Johnson County,7620,71,11,garage door repair,37.5,mold remediation,AC repair,18,https://www.towndemand.com/towns/in/greenwood/
+Hammond,IN,Lake County,12510,71,31,AC repair,42.2,bathroom remodeling,porta potty rental,14,https://www.towndemand.com/towns/in/hammond/
+Jeffersonville,IN,Clark County,5330,71,8,AC repair,20.2,roof repair,pressure washing,16,https://www.towndemand.com/towns/in/jeffersonville/
+Kokomo,IN,Howard County,4660,71,5,garage door repair,36.5,roof repair,dumpster rental,4,https://www.towndemand.com/towns/in/kokomo/
+Lafayette,IN,Tippecanoe County,7270,71,12,porta potty rental,11,garage door repair,septic pumping,15,https://www.towndemand.com/towns/in/lafayette/
+Muncie,IN,Delaware County,4690,71,6,tree removal,10.8,garage door repair,dumpster rental,13,https://www.towndemand.com/towns/in/muncie/
+South Bend,IN,St. Joseph County,9670,71,22,garage door repair,33.4,foundation repair,basement waterproofing,12,https://www.towndemand.com/towns/in/south-bend/
+Terre Haute,IN,Vigo County,5360,71,6,dumpster rental,12.2,garage door repair,tree removal,12,https://www.towndemand.com/towns/in/terre-haute/
+Kansas City,KS,Wyandotte County,9490,71,26,window replacement,20.7,roof repair,deck builder,18,https://www.towndemand.com/towns/ks/kansas-city/
+Lawrence,KS,Douglas County,5540,71,7,garage door repair,17.7,AC repair,duct cleaning,12,https://www.towndemand.com/towns/ks/lawrence/
+Manhattan,KS,Riley County,4320,71,3,AC repair,12.8,tree removal,garage door repair,16,https://www.towndemand.com/towns/ks/manhattan/
+Overland Park,KS,Johnson County,18700,71,37,garage door repair,73.8,foundation repair,bathroom remodeling,17,https://www.towndemand.com/towns/ks/overland-park/
+Topeka,KS,Shawnee County,7320,71,16,foundation repair,28.5,drain cleaning,roof repair,14,https://www.towndemand.com/towns/ks/topeka/
+Wichita,KS,Sedgwick County,43970,71,56,garage door repair,60,AC repair,tile installation,16,https://www.towndemand.com/towns/ks/wichita/
+Bowling Green,KY,Warren County,5940,71,11,garage door repair,15.7,tree removal,dumpster rental,14,https://www.towndemand.com/towns/ky/bowling-green/
+Lexington-Fayette,KY,Fayette County,9410,71,21,window replacement,17.2,dumpster rental,chimney sweep,17,https://www.towndemand.com/towns/ky/lexington-fayette/
+Owensboro,KY,Daviess County,5010,71,5,garage door repair,16,dumpster rental,tree removal,15,https://www.towndemand.com/towns/ky/owensboro/
+Bossier City,LA,Bossier Parish,5000,71,4,pressure washing,11.3,dumpster rental,garage door repair,10,https://www.towndemand.com/towns/la/bossier-city/
+Kenner,LA,Jefferson Parish,8790,71,17,AC repair,45.7,water heater installation,porta potty rental,14,https://www.towndemand.com/towns/la/kenner/
+Lake Charles,LA,Calcasieu Parish,6840,71,8,porta potty rental,14,garage door repair,tree removal,12,https://www.towndemand.com/towns/la/lake-charles/
+New Orleans,LA,Orleans Parish,16750,71,38,AC repair,52.8,dumpster rental,tree removal,16,https://www.towndemand.com/towns/la/new-orleans/
+Shreveport,LA,Caddo Parish,8120,71,16,foundation repair,22.4,tree removal,water heater installation,14,https://www.towndemand.com/towns/la/shreveport/
+Boston,MA,Suffolk County,24740,71,43,roof repair,42.2,junk removal,porta potty rental,15,https://www.towndemand.com/towns/ma/boston/
+Brockton,MA,Plymouth County,12120,71,32,bathroom remodeling,41.4,AC repair,garage door repair,13,https://www.towndemand.com/towns/ma/brockton/
+Cambridge,MA,Middlesex County,36420,71,51,roof repair,57.6,chimney sweep,bathroom remodeling,12,https://www.towndemand.com/towns/ma/cambridge/
+Lynn,MA,Essex County,15290,71,35,garage door repair,51.1,bathroom remodeling,roof repair,12,https://www.towndemand.com/towns/ma/lynn/
+New Bedford,MA,Bristol County,13430,71,32,garage door repair,39.1,bathroom remodeling,water heater installation,12,https://www.towndemand.com/towns/ma/new-bedford/
+Quincy,MA,Norfolk County,15950,71,39,roof repair,42.9,dryer vent cleaning,AC repair,12,https://www.towndemand.com/towns/ma/quincy/
+Springfield,MA,Hampden County,12250,71,32,garage door repair,27.1,bathroom remodeling,roof repair,13,https://www.towndemand.com/towns/ma/springfield/
+Worcester,MA,Worcester County,20130,71,41,garage door repair,48.4,roof repair,bathroom remodeling,13,https://www.towndemand.com/towns/ma/worcester/
+Baltimore,MD,Baltimore city,25850,71,45,bathroom remodeling,41.2,mold remediation,kitchen remodeling,18,https://www.towndemand.com/towns/md/baltimore/
+Bowie,MD,Prince George's County,16860,71,37,garage door repair,57.1,mold remediation,bathroom remodeling,14,https://www.towndemand.com/towns/md/bowie/
+Frederick,MD,Frederick County,9750,71,23,bathroom remodeling,28.6,garage door repair,kitchen remodeling,15,https://www.towndemand.com/towns/md/frederick/
+Gaithersburg,MD,Montgomery County,24920,71,44,mold remediation,53,bathroom remodeling,kitchen remodeling,15,https://www.towndemand.com/towns/md/gaithersburg/
+Portland,ME,Cumberland County,10980,71,30,garage door repair,25.6,bathroom remodeling,porta potty rental,14,https://www.towndemand.com/towns/me/portland/
+Ann Arbor,MI,Washtenaw County,12140,71,31,dumpster rental,24.3,AC repair,deck builder,12,https://www.towndemand.com/towns/mi/ann-arbor/
+Battle Creek,MI,Calhoun County,5340,71,5,garage door repair,16.4,dumpster rental,tree removal,11,https://www.towndemand.com/towns/mi/battle-creek/
+Detroit,MI,Wayne County,44780,71,52,AC repair,68.9,roof repair,garage door repair,14,https://www.towndemand.com/towns/mi/detroit/
+Flint,MI,Genesee County,10260,71,24,garage door repair,39.3,basement waterproofing,AC repair,15,https://www.towndemand.com/towns/mi/flint/
+Grand Rapids,MI,Kent County,26180,71,43,roof repair,32.3,dumpster rental,french drain installation,15,https://www.towndemand.com/towns/mi/grand-rapids/
+Kalamazoo,MI,Kalamazoo County,9510,71,20,roof repair,26.2,AC repair,bathroom remodeling,12,https://www.towndemand.com/towns/mi/kalamazoo/
+Lansing,MI,Ingham County,11610,71,23,window replacement,20.3,deck builder,basement waterproofing,16,https://www.towndemand.com/towns/mi/lansing/
+Troy,MI,Oakland County,34320,71,47,mold remediation,56,AC repair,dumpster rental,16,https://www.towndemand.com/towns/mi/troy/
+Warren,MI,Macomb County,20330,71,43,garage door repair,52.2,hardwood floor refinishing,mold remediation,15,https://www.towndemand.com/towns/mi/warren/
+Blaine,MN,Anoka County,10800,71,26,garage door repair,59.4,bathroom remodeling,roof repair,16,https://www.towndemand.com/towns/mn/blaine/
+Duluth,MN,St. Louis County,7240,71,13,roof repair,23.2,garage door repair,AC repair,13,https://www.towndemand.com/towns/mn/duluth/
+Lakeville,MN,Dakota County,11700,71,27,AC repair,31.7,garage door repair,roof repair,14,https://www.towndemand.com/towns/mn/lakeville/
+Minneapolis,MN,Hennepin County,49230,71,57,bathroom remodeling,62.7,window replacement,mold remediation,14,https://www.towndemand.com/towns/mn/minneapolis/
+Rochester,MN,Olmsted County,8350,71,18,garage door repair,27.5,bathroom remodeling,junk removal,15,https://www.towndemand.com/towns/mn/rochester/
+St. Cloud,MN,Stearns County,6310,71,10,AC repair,17.7,tree removal,dumpster rental,11,https://www.towndemand.com/towns/mn/st-cloud/
+St. Paul,MN,Ramsey County,18010,71,36,roof repair,47,bathroom remodeling,tree removal,14,https://www.towndemand.com/towns/mn/st-paul/
+Woodbury,MN,Washington County,10120,71,23,garage door repair,47.7,bathroom remodeling,roof repair,12,https://www.towndemand.com/towns/mn/woodbury/
+Columbia,MO,Boone County,8580,71,19,bathroom remodeling,12.7,roof repair,deck builder,15,https://www.towndemand.com/towns/mo/columbia/
+Florissant,MO,St. Louis County,24410,71,40,garage door repair,75.9,roof repair,foundation repair,8,https://www.towndemand.com/towns/mo/florissant/
+Joplin,MO,Jasper County,5510,71,10,garage door repair,17.6,septic pumping,tree removal,14,https://www.towndemand.com/towns/mo/joplin/
+Kansas City,MO,Jackson County,27150,71,46,garage door repair,31.2,mold remediation,concrete driveway,18,https://www.towndemand.com/towns/mo/kansas-city/
+O'Fallon,MO,St. Charles County,12340,71,31,garage door repair,30.5,water softener installation,cabinet refacing,15,https://www.towndemand.com/towns/mo/o-fallon/
+Springfield,MO,Greene County,13380,71,30,roof repair,28.8,mold remediation,garage door repair,16,https://www.towndemand.com/towns/mo/springfield/
+St. Joseph,MO,Buchanan County,4530,71,5,garage door repair,25.1,roof repair,AC repair,14,https://www.towndemand.com/towns/mo/st-joseph/
+St. Louis,MO,St. Louis city,27470,71,44,foundation repair,31.5,garage door repair,retaining wall,14,https://www.towndemand.com/towns/mo/st-louis/
+Gulfport,MS,Harrison County,7560,71,8,AC repair,26.4,roof repair,garage door repair,15,https://www.towndemand.com/towns/ms/gulfport/
+Jackson,MS,Hinds County,7450,71,13,AC repair,22.3,porta potty rental,foundation repair,13,https://www.towndemand.com/towns/ms/jackson/
+Southaven,MS,DeSoto County,6140,71,7,garage door repair,28.2,dumpster rental,countertop installation,10,https://www.towndemand.com/towns/ms/southaven/
+Billings,MT,Yellowstone County,7400,71,14,tree removal,20,duct cleaning,AC repair,14,https://www.towndemand.com/towns/mt/billings/
+Bozeman,MT,Gallatin County,5470,71,7,garage door repair,16.5,porta potty rental,countertop installation,7,https://www.towndemand.com/towns/mt/bozeman/
+Great Falls,MT,Cascade County,4310,71,4,porta potty rental,38.2,garage door repair,roof repair,10,https://www.towndemand.com/towns/mt/great-falls/
+Missoula,MT,Missoula County,6380,71,7,window replacement,29,roof repair,countertop installation,12,https://www.towndemand.com/towns/mt/missoula/
+Asheville,NC,Buncombe County,11670,71,30,bathroom remodeling,25.9,dumpster rental,deck builder,18,https://www.towndemand.com/towns/nc/asheville/
+Burlington,NC,Alamance County,7300,71,13,roof repair,20.8,water heater installation,junk removal,15,https://www.towndemand.com/towns/nc/burlington/
+Chapel Hill,NC,Orange County,6550,71,12,chimney sweep,17.4,tree removal,pressure washing,12,https://www.towndemand.com/towns/nc/chapel-hill/
+Charlotte,NC,Mecklenburg County,58050,71,56,garage door repair,84,bathroom remodeling,water damage restoration,17,https://www.towndemand.com/towns/nc/charlotte/
+Concord,NC,Cabarrus County,9490,71,20,bathroom remodeling,22.1,termite treatment,tree removal,14,https://www.towndemand.com/towns/nc/concord/
+Durham,NC,Durham County,12280,71,34,crawl space encapsulation,32.2,AC repair,window replacement,16,https://www.towndemand.com/towns/nc/durham/
+Fayetteville,NC,Cumberland County,12850,71,29,dumpster rental,35.9,roof repair,crawl space encapsulation,14,https://www.towndemand.com/towns/nc/fayetteville/
+Gastonia,NC,Gaston County,8310,71,16,garage door repair,41.2,tree removal,dumpster rental,14,https://www.towndemand.com/towns/nc/gastonia/
+Greensboro,NC,Guilford County,18440,71,42,AC repair,47.5,crawl space encapsulation,porta potty rental,16,https://www.towndemand.com/towns/nc/greensboro/
+Greenville,NC,Pitt County,7180,71,13,garage door repair,20.2,dumpster rental,roof repair,13,https://www.towndemand.com/towns/nc/greenville/
+Jacksonville,NC,Onslow County,8630,71,18,roof repair,26.5,bathroom remodeling,tree removal,13,https://www.towndemand.com/towns/nc/jacksonville/
+Mooresville,NC,Iredell County,8560,71,16,junk removal,22.2,dryer vent cleaning,septic pumping,14,https://www.towndemand.com/towns/nc/mooresville/
+Raleigh,NC,Wake County,54880,71,52,roof repair,60.3,garage door repair,bathroom remodeling,16,https://www.towndemand.com/towns/nc/raleigh/
+Rocky Mount,NC,Nash County,3690,71,0,,,,,,https://www.towndemand.com/towns/nc/rocky-mount/
+Wilmington,NC,New Hanover County,14000,71,30,bathroom remodeling,33.9,mold remediation,kitchen remodeling,16,https://www.towndemand.com/towns/nc/wilmington/
+Winston-Salem,NC,Forsyth County,12750,71,29,bathroom remodeling,24.7,garage door repair,roof repair,16,https://www.towndemand.com/towns/nc/winston-salem/
+Bismarck,ND,Burleigh County,4710,71,4,tree removal,8.4,AC repair,roof repair,12,https://www.towndemand.com/towns/nd/bismarck/
+Fargo,ND,Cass County,7910,71,17,concrete driveway,21.8,bathroom remodeling,porta potty rental,12,https://www.towndemand.com/towns/nd/fargo/
+Grand Forks,ND,Grand Forks County,3860,71,2,garage door repair,7.6,AC repair,,10,https://www.towndemand.com/towns/nd/grand-forks/
+Bellevue,NE,Sarpy County,7010,71,14,AC repair,28.8,roof repair,garage door repair,10,https://www.towndemand.com/towns/ne/bellevue/
+Grand Island,NE,Hall County,3650,71,1,tree removal,10.4,,,10,https://www.towndemand.com/towns/ne/grand-island/
+Lincoln,NE,Lancaster County,13280,71,32,bathroom remodeling,32.9,deck builder,tree removal,15,https://www.towndemand.com/towns/ne/lincoln/
+Omaha,NE,Douglas County,27180,71,43,septic pumping,24.7,porta potty rental,water damage restoration,16,https://www.towndemand.com/towns/ne/omaha/
+Manchester,NH,Hillsborough County,13930,71,35,garage door repair,33,kitchen remodeling,bathroom remodeling,13,https://www.towndemand.com/towns/nh/manchester/
+Camden,NJ,Camden County,12680,71,34,garage door repair,38.4,AC repair,porta potty rental,8,https://www.towndemand.com/towns/nj/camden/
+Elizabeth,NJ,Union County,10970,71,30,garage door repair,43.3,AC repair,roof repair,10,https://www.towndemand.com/towns/nj/elizabeth/
+Jersey City,NJ,Hudson County,18200,71,42,garage door repair,49.5,roof repair,water damage restoration,12,https://www.towndemand.com/towns/nj/jersey-city/
+New Brunswick,NJ,Middlesex County,27350,71,43,garage door repair,88.3,AC repair,water damage restoration,10,https://www.towndemand.com/towns/nj/new-brunswick/
+Newark,NJ,Essex County,16130,71,37,roof repair,63,AC repair,porta potty rental,11,https://www.towndemand.com/towns/nj/newark/
+Paterson,NJ,Passaic County,9430,71,22,roof repair,41.8,chimney sweep,termite treatment,14,https://www.towndemand.com/towns/nj/paterson/
+Trenton,NJ,Mercer County,9460,71,26,dryer vent cleaning,27.1,garage door repair,dumpster rental,10,https://www.towndemand.com/towns/nj/trenton/
+Vineland,NJ,Cumberland County,4990,71,4,septic pumping,11.1,AC repair,dumpster rental,14,https://www.towndemand.com/towns/nj/vineland/
+Albuquerque,NM,Bernalillo County,22640,71,43,AC repair,30.4,roof repair,window replacement,17,https://www.towndemand.com/towns/nm/albuquerque/
+Las Cruces,NM,Doña Ana County,6460,71,9,roof repair,20.7,garage door repair,porta potty rental,12,https://www.towndemand.com/towns/nm/las-cruces/
+Rio Rancho,NM,Sandoval County,5600,71,6,garage door repair,38.8,roof repair,AC repair,18,https://www.towndemand.com/towns/nm/rio-rancho/
+Santa Fe,NM,Santa Fe County,6430,71,9,roof repair,16.3,septic pumping,junk removal,15,https://www.towndemand.com/towns/nm/santa-fe/
+Carson City,NV,Carson City,4130,71,1,garage door repair,0,,,14,https://www.towndemand.com/towns/nv/carson-city/
+Las Vegas,NV,Clark County,73430,71,53,garage door repair,96.5,dryer vent cleaning,bathroom remodeling,17,https://www.towndemand.com/towns/nv/las-vegas/
+Reno,NV,Washoe County,19640,71,38,water heater installation,60.1,tree removal,duct cleaning,16,https://www.towndemand.com/towns/nv/reno/
+Albany,NY,Albany County,12440,71,35,roof repair,27.3,water damage restoration,mold remediation,14,https://www.towndemand.com/towns/ny/albany/
+Buffalo,NY,Erie County,41840,71,50,window replacement,47.9,bathroom remodeling,porta potty rental,13,https://www.towndemand.com/towns/ny/buffalo/
+Hempstead,NY,Nassau County,24540,71,44,mold remediation,56.9,AC repair,garage door repair,15,https://www.towndemand.com/towns/ny/hempstead/
+New York,NY,Kings County,33760,71,48,AC repair,48.9,roof repair,garage door repair,14,https://www.towndemand.com/towns/ny/new-york/
+Rochester,NY,Monroe County,25120,71,43,garage door repair,63.8,roof repair,water damage restoration,16,https://www.towndemand.com/towns/ny/rochester/
+Schenectady,NY,Schenectady County,6300,71,10,tree removal,15.1,countertop installation,dumpster rental,11,https://www.towndemand.com/towns/ny/schenectady/
+Syracuse,NY,Onondaga County,16270,71,37,bathroom remodeling,25.5,roof repair,septic pumping,13,https://www.towndemand.com/towns/ny/syracuse/
+Troy,NY,Rensselaer County,5450,71,7,roof repair,16.4,garage door repair,AC repair,12,https://www.towndemand.com/towns/ny/troy/
+Utica,NY,Oneida County,6690,71,14,tree removal,12.2,dumpster rental,garage door repair,6,https://www.towndemand.com/towns/ny/utica/
+Yonkers,NY,Westchester County,19440,71,42,AC repair,54.8,garage door repair,roof replacement,12,https://www.towndemand.com/towns/ny/yonkers/
+Akron,OH,Summit County,17030,71,39,bathroom remodeling,26,garage door repair,roof repair,16,https://www.towndemand.com/towns/oh/akron/
+Canton,OH,Stark County,12110,71,32,window replacement,29.7,basement waterproofing,garage door repair,16,https://www.towndemand.com/towns/oh/canton/
+Cincinnati,OH,Hamilton County,33510,71,45,garage door repair,60,roof repair,bathroom remodeling,16,https://www.towndemand.com/towns/oh/cincinnati/
+Cleveland,OH,Cuyahoga County,70280,71,54,roof repair,69.2,garage door repair,basement waterproofing,16,https://www.towndemand.com/towns/oh/cleveland/
+Columbus,OH,Franklin County,50080,71,52,roof repair,45,garage door repair,window replacement,17,https://www.towndemand.com/towns/oh/columbus/
+Dayton,OH,Montgomery County,18950,71,39,garage door repair,38.3,roof repair,EV charger installation,14,https://www.towndemand.com/towns/oh/dayton/
+Hamilton,OH,Butler County,11110,71,29,garage door repair,42.4,AC repair,EV charger installation,11,https://www.towndemand.com/towns/oh/hamilton/
+Lorain,OH,Lorain County,8020,71,18,gutter installation,29.3,garage door repair,bathroom remodeling,12,https://www.towndemand.com/towns/oh/lorain/
+Newark,OH,Licking County,6820,71,12,garage door repair,27.9,roof repair,junk removal,13,https://www.towndemand.com/towns/oh/newark/
+Springfield,OH,Clark County,5180,71,5,AC repair,22.3,garage door repair,dumpster rental,14,https://www.towndemand.com/towns/oh/springfield/
+Toledo,OH,Lucas County,13090,71,34,roof repair,25.9,tree removal,bathroom remodeling,14,https://www.towndemand.com/towns/oh/toledo/
+Youngstown,OH,Mahoning County,7560,71,16,basement waterproofing,24.2,AC repair,bathroom remodeling,12,https://www.towndemand.com/towns/oh/youngstown/
+Enid,OK,Garfield County,3460,71,1,AC repair,13.5,,,14,https://www.towndemand.com/towns/ok/enid/
+Lawton,OK,Comanche County,4740,71,3,garage door repair,15,AC repair,roof repair,17,https://www.towndemand.com/towns/ok/lawton/
+Norman,OK,Cleveland County,8180,71,13,roof repair,28,garage door repair,termite treatment,14,https://www.towndemand.com/towns/ok/norman/
+Oklahoma City,OK,Oklahoma County,28710,71,48,foundation repair,32.2,garage door repair,mold remediation,17,https://www.towndemand.com/towns/ok/oklahoma-city/
+Stillwater,OK,Payne County,4220,71,3,AC repair,22.1,roof repair,garage door repair,6,https://www.towndemand.com/towns/ok/stillwater/
+Tulsa,OK,Tulsa County,29600,71,46,AC repair,48.4,junk removal,garage door repair,17,https://www.towndemand.com/towns/ok/tulsa/
+Albany,OR,Linn County,5160,71,2,pressure washing,4.7,AC repair,,14,https://www.towndemand.com/towns/or/albany/
+Bend,OR,Deschutes County,11510,71,23,tree removal,24.4,cabinet refacing,water heater installation,16,https://www.towndemand.com/towns/or/bend/
+Corvallis,OR,Benton County,4250,71,3,roof repair,18.5,tree removal,pressure washing,13,https://www.towndemand.com/towns/or/corvallis/
+Eugene,OR,Lane County,12480,71,27,roof repair,37.2,dryer vent cleaning,bathroom remodeling,13,https://www.towndemand.com/towns/or/eugene/
+Hillsboro,OR,Washington County,19030,71,38,garage door repair,46.5,water heater installation,bathroom remodeling,13,https://www.towndemand.com/towns/or/hillsboro/
+Medford,OR,Jackson County,7610,71,11,tree removal,17.9,septic pumping,house painting,13,https://www.towndemand.com/towns/or/medford/
+Portland,OR,Multnomah County,41480,71,50,roof repair,45.2,water damage restoration,window replacement,16,https://www.towndemand.com/towns/or/portland/
+Salem,OR,Marion County,11000,71,27,fence installation,25,septic pumping,chimney sweep,15,https://www.towndemand.com/towns/or/salem/
+Allentown,PA,Lehigh County,11620,71,29,solar panel installation,29.6,bathroom remodeling,roof repair,15,https://www.towndemand.com/towns/pa/allentown/
+Bethlehem,PA,Northampton County,9530,71,24,bathroom remodeling,28.1,AC repair,hardwood floor refinishing,14,https://www.towndemand.com/towns/pa/bethlehem/
+Erie,PA,Erie County,10820,71,23,basement waterproofing,21.9,roof repair,bathroom remodeling,14,https://www.towndemand.com/towns/pa/erie/
+Harrisburg,PA,Dauphin County,9770,71,19,roof repair,30.9,deck builder,termite treatment,14,https://www.towndemand.com/towns/pa/harrisburg/
+Lancaster,PA,Lancaster County,16100,71,41,tree removal,26,solar panel installation,garage door repair,12,https://www.towndemand.com/towns/pa/lancaster/
+Philadelphia,PA,Philadelphia County,41670,71,51,bathroom remodeling,52.8,porta potty rental,tree removal,15,https://www.towndemand.com/towns/pa/philadelphia/
+Pittsburgh,PA,Allegheny County,47820,71,50,garage door repair,48.6,bathroom remodeling,basement waterproofing,16,https://www.towndemand.com/towns/pa/pittsburgh/
+Reading,PA,Berks County,9910,71,26,roof repair,30.8,dryer vent cleaning,bathroom remodeling,8,https://www.towndemand.com/towns/pa/reading/
+Scranton,PA,Lackawanna County,6890,71,13,tree removal,15.1,roof repair,dumpster rental,12,https://www.towndemand.com/towns/pa/scranton/
+Providence,RI,Providence County,14740,71,34,AC repair,42.1,AC replacement,garage door repair,14,https://www.towndemand.com/towns/ri/providence/
+Warwick,RI,Kent County,6180,71,9,roof repair,20.1,chimney sweep,garage door repair,16,https://www.towndemand.com/towns/ri/warwick/
+Charleston,SC,Charleston County,28150,71,46,garage door repair,58.8,cabinet refacing,bathroom remodeling,16,https://www.towndemand.com/towns/sc/charleston/
+Columbia,SC,Richland County,14210,71,36,crawl space encapsulation,27.3,window replacement,concrete driveway,15,https://www.towndemand.com/towns/sc/columbia/
+Goose Creek,SC,Berkeley County,7480,71,12,roof repair,26.6,AC repair,termite treatment,16,https://www.towndemand.com/towns/sc/goose-creek/
+Greenville,SC,Greenville County,20460,71,43,garage door repair,38.9,septic pumping,bathroom remodeling,15,https://www.towndemand.com/towns/sc/greenville/
+Rock Hill,SC,York County,10740,71,22,garage door repair,26.4,AC repair,bathroom remodeling,14,https://www.towndemand.com/towns/sc/rock-hill/
+Summerville,SC,Dorchester County,8720,71,13,AC repair,39.2,roof repair,tree removal,15,https://www.towndemand.com/towns/sc/summerville/
+Rapid City,SD,Pennington County,5480,71,7,tree removal,12.9,AC repair,garage door repair,14,https://www.towndemand.com/towns/sd/rapid-city/
+Sioux Falls,SD,Minnehaha County,9650,71,20,bathroom remodeling,30.8,epoxy garage floors,tree removal,15,https://www.towndemand.com/towns/sd/sioux-falls/
+Chattanooga,TN,Hamilton County,16560,71,37,AC repair,43.5,septic pumping,dryer vent cleaning,15,https://www.towndemand.com/towns/tn/chattanooga/
+Clarksville,TN,Montgomery County,8950,71,20,dumpster rental,18.7,fence installation,septic pumping,14,https://www.towndemand.com/towns/tn/clarksville/
+Cleveland,TN,Bradley County,5870,71,10,bathroom remodeling,29.4,garage door repair,septic pumping,12,https://www.towndemand.com/towns/tn/cleveland/
+Franklin,TN,Williamson County,10010,71,26,garage door repair,43.3,dryer vent cleaning,mold remediation,13,https://www.towndemand.com/towns/tn/franklin/
+Hendersonville,TN,Sumner County,7500,71,15,garage door repair,24.6,tree removal,roof repair,15,https://www.towndemand.com/towns/tn/hendersonville/
+Jackson,TN,Madison County,5390,71,6,garage door repair,16.6,tree removal,dumpster rental,10,https://www.towndemand.com/towns/tn/jackson/
+Johnson City,TN,Washington County,6480,71,11,tree removal,12.6,water heater installation,roof repair,16,https://www.towndemand.com/towns/tn/johnson-city/
+Kingsport,TN,Sullivan County,6420,71,10,septic pumping,12,junk removal,countertop installation,14,https://www.towndemand.com/towns/tn/kingsport/
+Knoxville,TN,Knox County,21800,71,43,garage door repair,41.2,bathroom remodeling,deck builder,16,https://www.towndemand.com/towns/tn/knoxville/
+Lebanon,TN,Wilson County,6270,71,11,AC repair,27.1,septic pumping,dumpster rental,14,https://www.towndemand.com/towns/tn/lebanon/
+Memphis,TN,Shelby County,30560,71,46,roof repair,32,fence installation,tree removal,16,https://www.towndemand.com/towns/tn/memphis/
+Murfreesboro,TN,Rutherford County,13120,71,30,garage door repair,36.4,roof repair,porta potty rental,16,https://www.towndemand.com/towns/tn/murfreesboro/
+Abilene,TX,Taylor County,7310,71,15,AC repair,26.3,garage door repair,septic pumping,14,https://www.towndemand.com/towns/tx/abilene/
+Amarillo,TX,Randall County,4200,71,1,garage door repair,14.6,,,14,https://www.towndemand.com/towns/tx/amarillo/
+Austin,TX,Travis County,69770,71,60,kitchen remodeling,75.5,water damage restoration,water heater installation,16,https://www.towndemand.com/towns/tx/austin/
+Beaumont,TX,Jefferson County,7570,71,9,foundation repair,20.1,AC repair,tree removal,15,https://www.towndemand.com/towns/tx/beaumont/
+Brownsville,TX,Cameron County,7950,71,13,AC repair,30.6,dumpster rental,garage door repair,10,https://www.towndemand.com/towns/tx/brownsville/
+Burleson,TX,Johnson County,7270,71,12,foundation repair,21.5,septic pumping,dumpster rental,13,https://www.towndemand.com/towns/tx/burleson/
+College Station,TX,Brazos County,6200,71,8,garage door repair,26.9,dryer vent cleaning,AC repair,16,https://www.towndemand.com/towns/tx/college-station/
+Conroe,TX,Montgomery County,20390,71,44,garage door repair,47.7,AC repair,dryer vent cleaning,14,https://www.towndemand.com/towns/tx/conroe/
+Corpus Christi,TX,Nueces County,12650,71,30,AC repair,40.1,porta potty rental,roof repair,14,https://www.towndemand.com/towns/tx/corpus-christi/
+Dallas,TX,Dallas County,99990,71,61,mold remediation,77.2,bathroom remodeling,foundation repair,15,https://www.towndemand.com/towns/tx/dallas/
+Denton,TX,Denton County,24670,71,45,garage door repair,57.5,AC repair,foundation repair,14,https://www.towndemand.com/towns/tx/denton/
+El Paso,TX,El Paso County,20930,71,39,garage door repair,52.9,AC repair,roof repair,15,https://www.towndemand.com/towns/tx/el-paso/
+Fort Worth,TX,Tarrant County,62040,71,58,AC repair,60,garage door repair,foundation repair,16,https://www.towndemand.com/towns/tx/fort-worth/
+Houston,TX,Harris County,141530,71,66,gutter installation,73.6,bathroom remodeling,mold remediation,15,https://www.towndemand.com/towns/tx/houston/
+Killeen,TX,Bell County,10420,71,26,garage door repair,37.9,roof repair,foundation repair,12,https://www.towndemand.com/towns/tx/killeen/
+Laredo,TX,Webb County,5780,71,5,AC repair,15.6,porta potty rental,pressure washing,10,https://www.towndemand.com/towns/tx/laredo/
+League City,TX,Galveston County,10720,71,25,foundation repair,35.5,dryer vent cleaning,garage door repair,14,https://www.towndemand.com/towns/tx/league-city/
+Longview,TX,Gregg County,6000,71,11,foundation repair,22.3,septic pumping,garage door repair,13,https://www.towndemand.com/towns/tx/longview/
+Lubbock,TX,Lubbock County,12580,71,29,concrete driveway,37.8,foundation repair,roof repair,13,https://www.towndemand.com/towns/tx/lubbock/
+McAllen,TX,Hidalgo County,14370,71,33,water damage restoration,17.8,roof repair,AC repair,13,https://www.towndemand.com/towns/tx/mcallen/
+Midland,TX,Midland County,7020,71,11,garage door repair,27.6,termite treatment,septic pumping,12,https://www.towndemand.com/towns/tx/midland/
+New Braunfels,TX,Comal County,11380,71,25,garage door repair,45.5,AC repair,foundation repair,15,https://www.towndemand.com/towns/tx/new-braunfels/
+Odessa,TX,Ector County,6590,71,10,garage door repair,39.9,roof repair,dumpster rental,13,https://www.towndemand.com/towns/tx/odessa/
+Pearland,TX,Brazoria County,11160,71,26,foundation repair,36.7,bathroom remodeling,crane rental,16,https://www.towndemand.com/towns/tx/pearland/
+Plano,TX,Collin County,38260,71,50,foundation repair,59.4,roof repair,AC repair,16,https://www.towndemand.com/towns/tx/plano/
+Rockwall,TX,Rockwall County,6990,71,11,AC repair,26.5,mold remediation,french drain installation,17,https://www.towndemand.com/towns/tx/rockwall/
+Round Rock,TX,Williamson County,22830,71,42,foundation repair,57.2,water damage restoration,dumpster rental,16,https://www.towndemand.com/towns/tx/round-rock/
+San Angelo,TX,Tom Green County,5480,71,6,garage door repair,21,tree removal,AC repair,13,https://www.towndemand.com/towns/tx/san-angelo/
+San Antonio,TX,Bexar County,78720,71,58,garage door repair,78.9,AC repair,window replacement,16,https://www.towndemand.com/towns/tx/san-antonio/
+San Marcos,TX,Hays County,9400,71,23,garage door repair,46.4,foundation repair,dryer vent cleaning,12,https://www.towndemand.com/towns/tx/san-marcos/
+Sherman,TX,Grayson County,5690,71,8,foundation repair,22.2,garage door repair,countertop installation,16,https://www.towndemand.com/towns/tx/sherman/
+Sugar Land,TX,Fort Bend County,23410,71,41,foundation repair,51.5,dryer vent cleaning,solar panel installation,14,https://www.towndemand.com/towns/tx/sugar-land/
+Tyler,TX,Smith County,9670,71,22,foundation repair,25.5,tree removal,bathroom remodeling,16,https://www.towndemand.com/towns/tx/tyler/
+Victoria,TX,Victoria County,5010,71,3,AC repair,14.7,pressure washing,garage door repair,12,https://www.towndemand.com/towns/tx/victoria/
+Waco,TX,McLennan County,9510,71,22,dumpster rental,27,foundation repair,mold remediation,14,https://www.towndemand.com/towns/tx/waco/
+Wichita Falls,TX,Wichita County,5390,71,8,garage door repair,20.8,foundation repair,roof repair,14,https://www.towndemand.com/towns/tx/wichita-falls/
+Layton,UT,Davis County,9630,71,22,bathroom remodeling,23.7,garage door repair,junk removal,17,https://www.towndemand.com/towns/ut/layton/
+Logan,UT,Cache County,4980,71,7,dryer vent cleaning,9.6,dumpster rental,countertop installation,17,https://www.towndemand.com/towns/ut/logan/
+Ogden,UT,Weber County,8580,71,22,mold remediation,20.9,bathroom remodeling,kitchen remodeling,16,https://www.towndemand.com/towns/ut/ogden/
+Provo,UT,Utah County,16150,71,36,dryer vent cleaning,36.9,water heater installation,AC repair,15,https://www.towndemand.com/towns/ut/provo/
+Salt Lake City,UT,Salt Lake County,39940,71,50,drain cleaning,59,bathroom remodeling,roof repair,16,https://www.towndemand.com/towns/ut/salt-lake-city/
+St. George,UT,Washington County,8080,71,17,roof repair,30.9,garage door repair,water heater installation,16,https://www.towndemand.com/towns/ut/st-george/
+Alexandria,VA,Alexandria city,9540,71,22,kitchen remodeling,32.9,bathroom remodeling,roof repair,14,https://www.towndemand.com/towns/va/alexandria/
+Chesapeake,VA,Chesapeake city,10370,71,28,roof repair,35.1,bathroom remodeling,water damage restoration,16,https://www.towndemand.com/towns/va/chesapeake/
+Hampton,VA,Hampton city,6210,71,11,garage door repair,23.9,gutter installation,tree removal,16,https://www.towndemand.com/towns/va/hampton/
+Harrisonburg,VA,Harrisonburg city,4020,71,1,AC repair,0,,,15,https://www.towndemand.com/towns/va/harrisonburg/
+Lynchburg,VA,Lynchburg city,5410,71,6,tree removal,14.5,AC repair,pressure washing,8,https://www.towndemand.com/towns/va/lynchburg/
+Newport News,VA,Newport News city,6610,71,12,bathroom remodeling,21.6,garage door repair,junk removal,18,https://www.towndemand.com/towns/va/newport-news/
+Norfolk,VA,Norfolk city,8150,71,17,garage door repair,21.9,dumpster rental,dryer vent cleaning,16,https://www.towndemand.com/towns/va/norfolk/
+Portsmouth,VA,Portsmouth city,5920,71,7,AC repair,23.2,water softener installation,tree removal,15,https://www.towndemand.com/towns/va/portsmouth/
+Richmond,VA,Richmond city,16610,71,41,window replacement,31.6,mold remediation,water damage restoration,14,https://www.towndemand.com/towns/va/richmond/
+Roanoke,VA,Roanoke city,7460,71,13,tree removal,17.7,AC repair,septic pumping,15,https://www.towndemand.com/towns/va/roanoke/
+Suffolk,VA,Suffolk city,4850,71,4,garage door repair,10.8,pressure washing,AC repair,14,https://www.towndemand.com/towns/va/suffolk/
+Virginia Beach,VA,Virginia Beach city,18360,71,41,well pump repair,32.8,roof repair,tree removal,18,https://www.towndemand.com/towns/va/virginia-beach/
+Bellingham,WA,Whatcom County,8370,71,17,septic pumping,31.3,roof repair,bathroom remodeling,15,https://www.towndemand.com/towns/wa/bellingham/
+Everett,WA,Snohomish County,18950,71,39,mold remediation,42.1,garage door repair,bathroom remodeling,14,https://www.towndemand.com/towns/wa/everett/
+Kennewick,WA,Benton County,6330,71,9,garage door repair,18.3,junk removal,tree removal,14,https://www.towndemand.com/towns/wa/kennewick/
+Lacey,WA,Thurston County,7520,71,17,roof repair,20.5,deck builder,bathroom remodeling,14,https://www.towndemand.com/towns/wa/lacey/
+Pasco,WA,Franklin County,3880,71,3,AC repair,17.5,garage door repair,pressure washing,17,https://www.towndemand.com/towns/wa/pasco/
+Seattle,WA,King County,90710,71,62,AC repair,88.5,roof repair,mold remediation,14,https://www.towndemand.com/towns/wa/seattle/
+Spokane,WA,Spokane County,18200,71,37,roof repair,33.5,porta potty rental,bathroom remodeling,15,https://www.towndemand.com/towns/wa/spokane/
+Tacoma,WA,Pierce County,22530,71,44,garage door repair,53.1,drain cleaning,dryer vent cleaning,14,https://www.towndemand.com/towns/wa/tacoma/
+Vancouver,WA,Clark County,23750,71,42,garage door repair,58.6,window replacement,gutter installation,17,https://www.towndemand.com/towns/wa/vancouver/
+Yakima,WA,Yakima County,6770,71,10,septic pumping,21,roof repair,garage door repair,10,https://www.towndemand.com/towns/wa/yakima/
+Appleton,WI,Outagamie County,8030,71,19,AC repair,26.3,garage door repair,window replacement,12,https://www.towndemand.com/towns/wi/appleton/
+Eau Claire,WI,Eau Claire County,5350,71,6,roof repair,20.8,house painting,pressure washing,13,https://www.towndemand.com/towns/wi/eau-claire/
+Green Bay,WI,Brown County,10870,71,26,basement waterproofing,26.2,bathroom remodeling,concrete driveway,13,https://www.towndemand.com/towns/wi/green-bay/
+Janesville,WI,Rock County,6540,71,10,roof repair,21,junk removal,dumpster rental,13,https://www.towndemand.com/towns/wi/janesville/
+Kenosha,WI,Kenosha County,6220,71,9,AC repair,17.6,tree removal,dumpster rental,10,https://www.towndemand.com/towns/wi/kenosha/
+La Crosse,WI,La Crosse County,5060,71,3,roof repair,20.4,garage door repair,water softener installation,11,https://www.towndemand.com/towns/wi/la-crosse/
+Madison,WI,Dane County,19230,71,39,bathroom remodeling,41.6,roof repair,porta potty rental,16,https://www.towndemand.com/towns/wi/madison/
+Milwaukee,WI,Milwaukee County,28050,71,44,roof repair,35.5,porta potty rental,gutter installation,15,https://www.towndemand.com/towns/wi/milwaukee/
+Oshkosh,WI,Winnebago County,6190,71,9,garage door repair,45.4,roof repair,tree removal,8,https://www.towndemand.com/towns/wi/oshkosh/
+Racine,WI,Racine County,7330,71,12,roof repair,32.7,dumpster rental,pressure washing,13,https://www.towndemand.com/towns/wi/racine/
+Waukesha,WI,Waukesha County,15040,71,38,garage door repair,40,bathroom remodeling,fence installation,14,https://www.towndemand.com/towns/wi/waukesha/
+Casper,WY,Natrona County,4550,71,4,concrete driveway,13.4,garage door repair,AC repair,12,https://www.towndemand.com/towns/wy/casper/
+Cheyenne,WY,Laramie County,10380,71,16,roof repair,24.1,garage door repair,drywall repair,13,https://www.towndemand.com/towns/wy/cheyenne/

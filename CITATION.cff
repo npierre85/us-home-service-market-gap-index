@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "US Home-Service Market Gap Index, November 2026"
+message: "If you use this data, please cite Town Demand and link to https://www.towndemand.com/"
+type: dataset
+authors:
+  - name: "Town Demand"
+    website: "https://www.towndemand.com/"
+date-released: 2026-11-22
+url: "https://www.towndemand.com/"
+license: CC-BY-4.0
+keywords: [small business, home services, local search, market research, economic development, business ideas]

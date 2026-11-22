@@ -23,6 +23,10 @@ Every row links to its page on towndemand.com, which shows the full ranking for 
 - **Smaller towns with the most openings** (under 15,000 tracked searches a month): Columbia SC (36 services with an opening), Fishers IN (35), Manchester NH (35), Albany NY (35) and Little Rock AR (34).
 - **The most crowded towns:** Waterbury CT and Rocky Mount NC have no clear opening in any of the 71 services.
 
+## Related study
+
+**[The Review Gap (November 2026)](https://www.towndemand.com/studies/review-gap-2026-11/):** in 1,054 of 9,434 local markets, the top 3 companies on the Google map have fewer than 30 reviews. It has a state-by-state breakdown and a CSV download.
+
 ## How it is measured
 
 For each town and service Town Demand pulls:
